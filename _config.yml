@@ -1,0 +1,28 @@
+name: kalaisejiane.com
+favicon: null
+layout_spectrum: 0.9993714478332549
+typography_spectrum: 0.4585204131435603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.23462663870304823
+  lightness: 0.30926027428358793
+  saturation: 0.8398524080403149
+  rhythmicContrast: 0.4678815877996385
+purpose: []
